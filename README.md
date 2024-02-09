@@ -6,3 +6,6 @@ The cache takes in 16 bit addresses corresponding to 32 bits of data. The cache 
 
 # Testing
 Within this repository is a VHDL memory and verilog testbenches testing the cache memory
+
+# Notes
+The cache was only tested to read instructions from memory to see if the cache tag hit/miss protocol would work
